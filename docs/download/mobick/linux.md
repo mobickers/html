@@ -11,8 +11,8 @@ nav_order: 6
 
 tarball version
 
-[BTCMOBICK-0.3.1.tar.gz](/dist/mobick/0.3.1/BTCMOBICK-0.3.1.tar.gz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-![Linux](/assets/images/linux.svg){: width="32px" }
+[BTCMOBICK-0.3.1.tar.gz](/html/dist/mobick/0.3.1/BTCMOBICK-0.3.1.tar.gz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![Linux](/html/assets/images/linux.svg){: width="32px" }
 (11,920KB)
 
 {: .note }
@@ -32,8 +32,8 @@ cd BTCMOBICK-0.3.1
 AppImage version
 {: .mt-6 }
 
-[btcmobick-0.3.1-x86_64.AppImage](/dist/mobick/0.3.1/btcmobick-0.3.1-x86_64.AppImage){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-![Linux](/assets/images/linux.svg){: width="32px" }
+[btcmobick-0.3.1-x86_64.AppImage](/html/dist/mobick/0.3.1/btcmobick-0.3.1-x86_64.AppImage){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![Linux](/html/assets/images/linux.svg){: width="32px" }
 (60,986KB)
 
 {: .note }
@@ -45,8 +45,8 @@ sudo add-apt-repository ppa:appimagelauncher-team/stable
 sudo apt install appimagelauncher
 ```
 
-![Linux](/assets/images/howto.linux.b1.png)
+![Linux](/html/assets/images/howto.linux.b1.png)
 
-![Linux](/assets/images/howto.linux.b2.png)
+![Linux](/html/assets/images/howto.linux.b2.png)
 
-![Linux](/assets/images/howto.linux.b3.png)
+![Linux](/html/assets/images/howto.linux.b3.png)

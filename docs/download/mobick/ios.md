@@ -10,4 +10,4 @@ nav_order: 3
 {: .mb-7 }
 
 [Download](https://apps.apple.com/kr/app/id6448325952){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-![App Store](/assets/images/app-store.svg){: width="130px" }
+![App Store](/html/assets/images/app-store.svg){: width="130px" }
