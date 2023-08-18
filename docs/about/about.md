@@ -8,7 +8,7 @@ nav_order: 2
 
 #### Mobicker 비트뭉/Bitmoong & Dominic (Mocean Trustech, Australia)
 
-## 1.Bitcoin's Currency Phenomenon Reimagined by BTCMobick
+## 1. Bitcoin's Currency Phenomenon Reimagined by BTCMobick
 
 The currency phenomenon emerges as individuals' beliefs in value converge, creating mutual relationships that gain objective value over time. In "Sapiens," Yuval Noah Harari highlights history's driving forces, where law, money, faith, and nation are examples of subjective interactions.
 
@@ -17,7 +17,7 @@ Author Oh Taemin designed the BTCMobick project to replicate Bitcoin's currency 
 
 Bitcoin, without a long history like gold and lacking a central authority's endorsement, became a global currency through trust. BTCMobick faithfully echoes this Bitcoin greatness.
 
-## 2.Reviving Dormant Bitcoin Whales: BTCMobick's Early Impact
+## 2. Reviving Dormant Bitcoin Whales: BTCMobick's Early Impact
 
 Bitcoin's emergence marked a historic event. Starting on January 3, 2009, individuals mined it driven by belief and curiosity.
 Within four years, 10.5 million Bitcoins were mined, half of the capped 21 million supply. Around 5-6 million lay dormant. This constitutes over 25% of the total. The invariable 21 million cap sets Bitcoin apart.
@@ -25,7 +25,7 @@ Within four years, 10.5 million Bitcoins were mined, half of the capped 21 milli
 Yet, uncertainty surrounds these dormant coins, impacting predictability. Market fluctuations follow their movement.
 BTCMobick, launched on January 3, 2019, as a PoW coin, rewards holders. They have until January 3, 2029, to claim BTCMobick from dormant wallets, incentivizing awakening whales. BTCMobick's success depends on value, possibly revealing a million dormant coins, further enhancing predictability.
 
-## 3.Exploring BTCMobick's Public Good Possessions
+## 3. Exploring BTCMobick's Public Good Possessions
 
 Since the hard fork, around 20 million BTCMobick coins have been issued by late July 2023. Of these, the Otae Bus Company holds 14 million coins, divided into 14 wallets with 100,000 coins each. The addresses of these 14 wallets are publicly accessible, allowing anyone to examine them. 
 Despite owning 14 million coins, the transparency of wallet addresses places founder accountability at the forefront. If even one coin moves without community consensus, the BTCMobick project will end – a self-imposed restraint by the 
@@ -33,7 +33,7 @@ founder.
 
 The 14 million coins will be shared between enterprises entering the BTCMobick network in the future and the Otae Bus Company. Further details on enterprise use of BTCMobick will be elaborated in next chapter. The BTCMobick retained by the Otae Bus Company will be employed to exhibit leadership within the BTCMobick ecosystem. For instance, it could be utilized to persuade miners during future hard forks or to maintain neutrality among various enterprises on the network.
 
-## 4. 4.BTCMobick as a Multi-Purpose Blockchain Network for Corporate Applications
+## 4. BTCMobick as a Multi-Purpose Blockchain Network for Corporate Applications
 
 Satoshi Nakamoto's pioneering paper on a "Peer-to-Peer Electronic Cash System" proposed a solution for double-spending using P2P networks. Today's Bitcoin ecosystem has evolved through experimentation, embodying a spirit of continuous growth. Bitcoin's adaptable nature arises from its elegant simplicity, enabling resilience. In contrast, various altcoins highlight specific uses in whitepapers to attract investors. While this approach garners initial support, coins with preordained purposes face limitations.
 
@@ -47,7 +47,7 @@ Furthermore, leveraging the transparent, neutral primary network engenders user 
 BTCMobick's role as a universal enterprise network, offering versatility and value, solidifies through increased participation. 
 While BTCMobick's specific uses aren't predefined, its value and decentralization support diverse enterprise applications. (Future mining will transition to public.)
 
-## 5.Crafting Trustworthy Paper Wallets with BTCMobick
+## 5. Crafting Trustworthy Paper Wallets with BTCMobick
 
 Before delving into the explanation, it's essential to grasp that exchanges, hardware wallets, software wallets, and paper wallets all demand trust in their respective components. BTCMobick was distributed exclusively through paper wallets during the project's progression. Why did BTCMobick opt for paper wallets?
 
