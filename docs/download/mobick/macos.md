@@ -8,7 +8,7 @@ nav_order: 5
 
 # Mobick for macOS
 
-### .dmg version
+### dmg version
 {: .d-inline-block }
 
 New (v0.3.1)
