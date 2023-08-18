@@ -17,3 +17,4 @@ nav_order: 5
 Mobick for macOS is only tested on Intel-based Macs, and the binary built targets `x86_64` currently.<br/>
 Your machine needs at least macOS 10.14.6.
 
+![macOS](/html/assets/images/howto.macos.a1.png)
