@@ -7,7 +7,12 @@ nav_order: 5
 ---
 
 # Mobick for macOS
-{: .mb-7 }
+
+### .dmg version
+{: .d-inline-block }
+
+New (v0.3.1)
+{: .label .label-green }
 
 [btcmobick-0.3.1.dmg](/html/dist/mobick/0.3.1/btcmobick-0.3.1.dmg){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ![macOS](/html/assets/images/mac.svg){: width="30px" }

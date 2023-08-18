@@ -7,16 +7,23 @@ nav_order: 4
 ---
 
 # Mobick for Windows
-{: .mb-7 }
 
-installer version
+### Installer version
+{: .d-inline-block }
+
+New (v0.3.1)
+{: .label .label-green }
 
 [btcmobick-0.3.1-setup.exe](/html/dist/mobick/0.3.1/btcmobick-0.3.1-setup.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ![Windows](/html/assets/images/windows.svg){: width="36px" }
 (32,937KB)
 
 
-portable version
+### Portable version
+{: .d-inline-block }
+
+New (v0.3.1)
+{: .label .label-green }
 
 [btcmobick-0.3.1-portable.exe](/html/dist/mobick/0.3.1/btcmobick-0.3.1-portable.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ![Windows](/html/assets/images/windows.svg){: width="36px" }

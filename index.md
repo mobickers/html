@@ -6,10 +6,25 @@ description: "Mobickers GitHub Pages"
 permalink: /
 ---
 
-# Paper Wallet
+# BTCMobick Paper Wallet
+{: .d-inline-block }
 
-We are launching BTCMobick paper wallet.
-{: .fs-6 .fw-300 }
+Buy now!
+{: .label .label-yellow }
+
+---
+
+{내용추가}
+
+- <email1@mobickcompany.com>
+- <email2@mobickcompany.com>
+- <email3@mobickcompany.com>
+
+---
+
+[![Amazon](/assets/images/amazon-01.png){: width="240px" }](https://www.amazon.com)
+
+[![COUPANG](/assets/images/coupang-01.png){: width="200px" }](https://www.coupang.com/vp/products/7534610399?itemId=19792021263&vendorItemId=86894583010)
 
 ![BTCMobick](/assets/images/paper-wallet.demo.3.jpg)
 ![BTCMobick](/assets/images/paper-wallet.demo.1.jpg)
