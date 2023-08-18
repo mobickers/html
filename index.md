@@ -16,10 +16,6 @@ Buy now!
 
 {내용추가}
 
-- <email1@mobickcompany.com>
-- <email2@mobickcompany.com>
-- <email3@mobickcompany.com>
-
 ---
 
 [![Amazon](/assets/images/amazon-01.png){: width="240px" }](https://www.amazon.com)
