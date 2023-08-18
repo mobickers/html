@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Mobick
 description: Mobickers
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobickers.github.io/html" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/html" # the subpath of your site, e.g. /blog
+url: "https://mobickers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: mobickers/html # for github-metadata
 
 permalink: pretty
