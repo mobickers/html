@@ -18,15 +18,17 @@ Buy now!
 
 ---
 
+![BTCMobick](/assets/images/paper-wallet.demo.3.jpg)
+
+![BTCMobick](/assets/images/paper-wallet.demo.1.jpg)
+
+![BTCMobick](/assets/images/paper-wallet.demo.2.jpg)
+
 [![Amazon](/assets/images/amazon-01.png){: width="240px" }](https://www.amazon.com)
 
 [![Amazon](/assets/images/amazon-au-01.png){: width="240px" }](https://www.amazon.com.au)
 
 [![COUPANG](/assets/images/coupang-01.png){: width="180px" }](https://www.coupang.com/vp/products/7534610399?itemId=19792021263&vendorItemId=86894583010)
-
-![BTCMobick](/assets/images/paper-wallet.demo.3.jpg)
-![BTCMobick](/assets/images/paper-wallet.demo.1.jpg)
-![BTCMobick](/assets/images/paper-wallet.demo.2.jpg)
 
 {% comment %}
 # Focus on writing good documentation
