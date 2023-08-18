@@ -1,0 +1,52 @@
+---
+title: Linux
+layout: default
+parent: Mobick
+grand_parent: Download
+nav_order: 6
+---
+
+# Mobick for Linux
+{: .mb-7 }
+
+tarball version
+
+[BTCMOBICK-0.3.1.tar.gz](/dist/mobick/0.3.1/BTCMOBICK-0.3.1.tar.gz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![Linux](/assets/images/linux.svg){: width="32px" }
+(11,920KB)
+
+{: .note }
+실행시 'python3', 'python3-pyqt5' 패키지가 필요합니다.
+
+```shell
+sudo apt update
+sudo apt install python3 python3-pyqt5
+```
+
+```shell
+tar -xzvf BTCMOBICK-0.3.1.tar.gz
+cd BTCMOBICK-0.3.1
+./run_gnc
+```
+
+AppImage version
+{: .mt-6 }
+
+[btcmobick-0.3.1-x86_64.AppImage](/dist/mobick/0.3.1/btcmobick-0.3.1-x86_64.AppImage){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+![Linux](/assets/images/linux.svg){: width="32px" }
+(60,986KB)
+
+{: .note }
+실행시 'appimagelauncher' 패키지가 필요합니다.
+
+```shell
+sudo apt update
+sudo add-apt-repository ppa:appimagelauncher-team/stable
+sudo apt install appimagelauncher
+```
+
+![Linux](/assets/images/howto.linux.b1.png)
+
+![Linux](/assets/images/howto.linux.b2.png)
+
+![Linux](/assets/images/howto.linux.b3.png)
