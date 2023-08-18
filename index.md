@@ -20,7 +20,9 @@ Buy now!
 
 [![Amazon](/assets/images/amazon-01.png){: width="240px" }](https://www.amazon.com)
 
-[![COUPANG](/assets/images/coupang-01.png){: width="200px" }](https://www.coupang.com/vp/products/7534610399?itemId=19792021263&vendorItemId=86894583010)
+[![Amazon](/assets/images/amazon-au-01.png){: width="240px" }](https://www.amazon.com.au)
+
+[![COUPANG](/assets/images/coupang-01.png){: width="180px" }](https://www.coupang.com/vp/products/7534610399?itemId=19792021263&vendorItemId=86894583010)
 
 ![BTCMobick](/assets/images/paper-wallet.demo.3.jpg)
 ![BTCMobick](/assets/images/paper-wallet.demo.1.jpg)
