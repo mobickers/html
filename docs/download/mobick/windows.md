@@ -11,23 +11,23 @@ nav_order: 4
 ### Installer version
 {: .d-inline-block }
 
-New (v0.3.1)
+New (v0.3.3)
 {: .label .label-green }
 
-[btcmobick-0.3.1-setup.exe](/html/dist/mobick/0.3.1/btcmobick-0.3.1-setup.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[btcmobick-0.3.3-setup.exe](/html/dist/mobick/0.3.3/btcmobick-0.3.3-setup.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-3 }
 ![Windows](/html/assets/images/windows.svg){: width="36px" }
-(32,937KB)
+(32,940KB)
 
 
 ### Portable version
 {: .d-inline-block }
 
-New (v0.3.1)
+New (v0.3.3)
 {: .label .label-green }
 
-[btcmobick-0.3.1-portable.exe](/html/dist/mobick/0.3.1/btcmobick-0.3.1-portable.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[btcmobick-0.3.3-portable.exe](/html/dist/mobick/0.3.3/btcmobick-0.3.3-portable.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-3 }
 ![Windows](/html/assets/images/windows.svg){: width="36px" }
-(44,877KB)
+(44,893KB)
 
 {: .note .mt-6 }
 EXE 파일이 다운로드 되지 않는 경우 아래 설명을 따라 하세요. (엣지/크롬)

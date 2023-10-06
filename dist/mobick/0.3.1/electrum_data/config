@@ -1,0 +1,9 @@
+{
+    "blockchain_preferred_block": {
+        "hash": "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
+        "height": 0
+    },
+    "config_version": 3,
+    "rpcpassword": "1Ef_JZE9X4Fb8j917j_ejw==",
+    "rpcuser": "user"
+}
