@@ -16,7 +16,7 @@ New (v0.3.3)
 
 [btcmobick-0.3.3-setup.exe](/html/dist/mobick/0.3.3/btcmobick-0.3.3-setup.exe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-3 }
 ![Windows](/html/assets/images/windows.svg){: width="36px" }
-(32,940KB)
+(32,942KB)
 
 
 ### Portable version

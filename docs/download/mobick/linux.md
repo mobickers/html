@@ -11,12 +11,12 @@ nav_order: 6
 ### tarball version
 {: .d-inline-block }
 
-New (v0.3.1)
+New (v0.3.3)
 {: .label .label-green }
 
-[BTCMOBICK-0.3.1.tar.gz](/html/dist/mobick/0.3.1/BTCMOBICK-0.3.1.tar.gz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[BTCMOBICK-0.3.3.tar.gz](/html/dist/mobick/0.3.3/BTCMOBICK-0.3.3.tar.gz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ![Linux](/html/assets/images/linux.svg){: width="32px" }
-(11,920KB)
+(16,873KB)
 
 {: .note }
 실행시 'python3', 'python3-pyqt5' 패키지가 필요합니다.
@@ -35,10 +35,10 @@ cd BTCMOBICK-0.3.1
 ### AppImage version
 {: .d-inline-block .mt-6 }
 
-New (v0.3.1)
+New (v0.3.3)
 {: .label .label-green }
 
-[btcmobick-0.3.1-x86_64.AppImage](/html/dist/mobick/0.3.1/btcmobick-0.3.1-x86_64.AppImage){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[btcmobick-0.3.3-x86_64.AppImage](/html/dist/mobick/0.3.3/btcmobick-0.3.3-x86_64.AppImage){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ![Linux](/html/assets/images/linux.svg){: width="32px" }
 (60,986KB)
 
