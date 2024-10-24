@@ -6,16 +6,7 @@ description: "Mobickers GitHub Pages"
 permalink: /
 ---
 
-# BTCMobick Paper Wallet
-{: .d-inline-block }
 
----
-
-![BTCMobick](/assets/images/paper-wallet.demo.3.jpg)
-
-![BTCMobick](/assets/images/paper-wallet.demo.1.jpg)
-
-![BTCMobick](/assets/images/paper-wallet.demo.2.jpg)
 
 {% comment %}
 # Focus on writing good documentation
